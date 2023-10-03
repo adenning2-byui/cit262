@@ -4,7 +4,7 @@
   "description": "W3 Activity: Create a NodeJS Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello":"node helloworld.js"
   },
   "author": "Adam Denning",
   "license": "ISC"
